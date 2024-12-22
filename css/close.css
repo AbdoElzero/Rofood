@@ -1,0 +1,59 @@
+/* start cloes */
+.page .left .text-head {
+    margin-top: 20px;
+    margin-bottom: 16px;
+    background-color: #E4EBF9;
+    border-radius: 5px;
+    padding: 16px;
+}
+.page .left .text-head p {
+    margin: 0;
+    font-size: 20px;
+    font-weight: 500;
+    color: #1E1e1e;
+}
+.page .left .cloes {
+    border: 1px solid #F1F1F1;
+    padding: 16px;
+    border-radius: 5px;
+}
+.page .left .cloes .box-one {
+    margin-bottom: 10px;
+}
+.page .left .cloes .box-one span {
+    color: #1E1e1e;
+    font-size: 14px;
+    font-weight: 500;
+}
+.page .left .cloes .box-one p {
+    margin-bottom: 0;
+    background-color: rgba(16, 186, 98, 0.05);
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #1E1e1e;
+    margin-top: 10px;
+    position: relative;
+    border: 1px solid #10BA6266
+}
+.page .left .cloes .box-one p span {
+    top: 16px;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 500;
+    color: #6A829B;
+    position: absolute;
+    left: 13px;
+}
+.page .left .clo {
+    text-decoration: none;
+    margin: 20px;
+    display: block;
+    padding: 16px;
+    text-align: center;
+    max-width: 300px;
+    background-color: #D93232;
+    color: #FFFFFF;
+    border-radius: 10px;
+}

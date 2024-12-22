@@ -1,0 +1,46 @@
+.left .setting {
+    margin-top: 20px;
+}
+.left .setting a {
+    text-decoration: none;
+    color: #292929;
+}
+.left .setting .over {
+    margin-bottom: 30px;
+    background-color: #F9E4E4;
+    padding: 10px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    display: none;
+}
+.left .setting .over span {
+    font-size: 14px;
+    font-weight: 500;
+    color: #292929;
+    margin-right: 20px;
+}
+.left .setting .over img.check {
+    cursor: pointer;
+}
+.left .setting .in-box {
+    border: 1px solid #F1F1F1;
+    background: #FFFFFF;
+    padding: 15px 10px;
+    border-radius: 15px;
+    margin-bottom: 22px;
+    cursor: pointer;
+
+}
+.left .setting .in-box img {
+    padding: 10px;
+    background-color: #E4EBF9;
+    border-radius: 50%;
+    width: 50px;
+}
+.left .setting .in-box span {
+    font-size: 14px;
+    font-weight: 500;
+    margin-right: 10px;
+}

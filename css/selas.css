@@ -1,0 +1,100 @@
+.page .left .text-head-seven {
+    margin-top: 30px;
+    margin-bottom: 16px;
+    padding: 12px 20px;
+    border: 1px solid #F1F1F1;
+    border-radius: 5px;
+    background-color: #E4EBF9;
+}
+.page .left .text-head-seven .row {
+    align-items: center;
+}
+.page .left .text-head-seven .info {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.page .left .text-head-seven .info .in-one span {
+    font-size: 12px;
+    font-weight: 500;
+    color: #1E1E1E;
+}
+.page .left .text-head-seven .button {
+    text-align: left;
+}
+.page .left .text-head-seven .button a {
+    text-decoration: none;
+    color: #FFFFFF;
+    border: none;
+    font-size: 12px;
+    font-weight: 500;
+    display: inline-block;
+    text-align: center;
+    padding: 8px 12px;
+    border-radius: 15px;
+    background-color: #1E66F0;
+    max-width: 100%;
+    width: 100px;
+}
+@media (max-width: 767px) {
+    .page .left .text-head-seven .button {
+        text-align: right;
+        margin-top: 20px;
+    }
+    .page .left .text-head-seven .button a {
+        padding: 10px 20px;
+        max-width: 100%;
+        display: block;
+        width: 150px;
+    }
+}
+.page .left .tab-one {
+    border: 1px solid #F1F1F1;
+    border-radius: 5px;
+    border-spacing: 0;
+    margin-bottom: 16px;
+}
+.page .left .tab-one .responsive-table {
+    overflow-x: auto;
+}
+.page .left .tab-one .responsive-table table {
+    min-width: 950px;
+    width: 100%;
+    text-align: center;
+}
+.page .left .tab-one .responsive-table table thead {
+    border: 1px solid #6A829B1A;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+}
+.page .left .tab-one .responsive-table table thead td {
+    font-size: 12px;
+    color: #6A829B;
+    font-weight: 500;
+}
+.page .left .tab-one .responsive-table table td {
+    padding: 12px 20px;
+    border-bottom: 1px solid #6A829B1A;
+}
+.page .left .tab-one .responsive-table table tbody td {
+    font-size: 12px;
+    color: #1E1E1E;
+    font-weight: 500;
+}
+.page .left .a-two .responsive-table table {
+    min-width: 1300px;
+}
+.page .left .a-two .responsive-table table tbody {
+    background-color: #F8EFE4;
+}
+.page .left .a-two .responsive-table table tbody td:last-of-type {
+    color: #E3891F;
+}
+.page .left .b-two .responsive-table table tbody {
+    background-color: #E3F4EB;
+}
+.page .left .b-two .responsive-table table tbody td:last-of-type {
+    color: #10BA62;
+}

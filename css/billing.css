@@ -1,0 +1,12 @@
+.page .left .tables-three .responsive-table table {
+    min-width: 1180px;
+}
+.page .left .tables-three .responsive-table table tbody td img:first-of-type {
+    margin-left: 0px;
+}
+.page .left .tables-three .responsive-table table tbody td img {
+    margin: 0 3px !important;
+}
+.page .left .tables-three .responsive-table table tbody tr.two {
+    background-color: #f8f8f8;
+}
